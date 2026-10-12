@@ -30,3 +30,8 @@ The enemy fleet has five ships, with lengths 5, 4, 3, 3 and 2. They can be place
 ## About
 
 Made as a passion project to practice object-oriented programming in Python, inspired by the course IN1000 at the University of Oslo.
+
+## Download
+
+Don't want to run the code yourself? Download the ready-to-play Mac version under
+[Releases](../../releases). Works on Macs with an Apple chip (M1 or newer).
