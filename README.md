@@ -4,20 +4,6 @@ A pirate-themed Battleship game for the terminal, written in Python.
 
 Enemy ships are hidden somewhere in a 10×10 sea. Fire your cannons by entering coordinates, and try to sink every ship in as few shots as possible!
 
-## How to run
-
-You need Python 3 installed ([python.org](https://www.python.org/downloads/)).
-
-1. Download or clone this repository.
-2. Open a terminal in the project folder.
-3. Run:
-
-```
-python3 main.py
-```
-
-On Windows, you may need to write `python main.py` instead.
-
 ## How to play
 
 - Enter the **row** and **column** you want to fire at, separated by a space, for example: `3 5`
